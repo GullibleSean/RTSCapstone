@@ -1,0 +1,907 @@
+﻿Log file open, 11/13/19 08:21:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RTS_Game_2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.675720
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.13-16.21.27:971][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.13-16.21.27:971][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.13-16.21.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Engine.ini]
+[2019.11.13-16.21.27:971][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.13-16.21.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Engine.ini]
+[2019.11.13-16.21.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Engine.ini]
+[2019.11.13-16.21.27:971][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.13-16.21.27:971][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.13-16.21.27:971][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.13-16.21.27:971][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Engine.ini]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.13-16.21.27:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Engine.ini]
+[2019.11.13-16.21.27:972][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Engine.ini]
+[2019.11.13-16.21.27:979][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-16.21.27:979][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-16.21.27:980][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-16.21.27:981][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-16.21.27:981][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.13-16.21.28:001][  0]LogHAL: Display: Platform has ~ 16 GB [17082613760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.13-16.21.28:001][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.13-16.21.28:001][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.13-16.21.28:002][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-16.21.28:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-16.21.28:003][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.13-16.21.28:008][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.13-16.21.28:008][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.13-16.21.28:008][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Config/Windows/Engine.ini]
+[2019.11.13-16.21.28:010][  0]LogInit: Computer: LCV234-16
+[2019.11.13-16.21.28:010][  0]LogInit: User: 1740037
+[2019.11.13-16.21.28:010][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.13-16.21.28:010][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2019.11.13-16.21.28:011][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.13-16.21.28:011][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.13-16.21.28:011][  0]LogMemory: Process Physical Memory: 97.16 MB used, 97.16 MB peak
+[2019.11.13-16.21.28:011][  0]LogMemory: Process Virtual Memory: 92.05 MB used, 92.05 MB peak
+[2019.11.13-16.21.28:011][  0]LogMemory: Physical Memory: 11547.19 MB used,  4744.06 MB free, 16291.25 MB total
+[2019.11.13-16.21.28:011][  0]LogMemory: Virtual Memory: 527.80 MB used,  134217200.00 MB free, 134217728.00 MB total
+[2019.11.13-16.21.28:281][  0]LogInit: Using OS detected language (en-US).
+[2019.11.13-16.21.28:281][  0]LogInit: Using OS detected locale (en-CA).
+[2019.11.13-16.21.28:284][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.13-16.21.29:315][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.13-16.21.29:419][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.13-16.21.29:419][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.13-16.21.32:533][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-16.21.32:533][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.13-16.21.33:049][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.11.13-16.21.33:049][  0]LogD3D11RHI:       4043/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.13-16.21.33:052][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.13-16.21.33:052][  0]LogD3D11RHI:       0/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.13-16.21.33:052][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.13-16.21.33:068][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.13-16.21.33:068][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.13-16.21.33:069][  0]LogWindows: EnumDisplayDevices:
+[2019.11.13-16.21.33:069][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.11.13-16.21.33:069][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.11.13-16.21.33:069][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.11.13-16.21.33:070][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.11.13-16.21.33:070][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.13-16.21.33:070][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.11.13-16.21.33:070][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2019.11.13-16.21.33:070][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2019.11.13-16.21.33:070][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.11.13-16.21.33:129][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.13-16.21.33:143][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-16.21.33:143][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-16.21.33:143][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-16.21.33:157][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.13-16.21.34:516][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.13-16.21.34:534][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.13-16.21.34:553][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.13-16.21.34:571][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.13-16.21.34:597][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.13-16.21.34:618][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.13-16.21.34:642][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.13-16.21.34:663][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.13-16.21.34:674][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.13-16.21.34:777][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.13-16.21.34:780][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.13-16.21.34:851][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.13-16.21.34:851][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.13-16.21.34:878][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.13-16.21.34:878][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.13-16.21.34:894][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.13-16.21.34:909][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.13-16.21.34:925][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.13-16.21.34:950][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.13-16.21.35:007][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.13-16.21.35:007][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.13-16.21.35:007][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.13-16.21.35:059][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.13-16.21.35:249][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Intermediate/Shaders/WorkingDirectory/9412/).
+[2019.11.13-16.21.35:249][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1740037/AppData/Local/Temp/UnrealShaderWorkingDir/BAD16D1F42C04486520F098D6531697E/'.
+[2019.11.13-16.21.35:255][  0]LogXGEController: Cleaning working directory: C:/Users/1740037/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.13-16.21.35:256][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.13-16.21.35:256][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.13-16.21.35:256][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.13-16.21.38:226][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.13-16.21.38:226][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2019.11.13-16.21.38:227][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.13-16.21.38:227][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.13-16.21.38:227][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.13-16.21.38:227][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.13-16.21.38:255][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.13-16.21.38:255][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.13-16.21.38:255][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.13-16.21.38:268][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1740037/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.13-16.21.38:268][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.13-16.21.38:268][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.13-16.21.38:356][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.13-16.21.38:365][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.13-16.21.38:384][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.13-16.21.38:764][  0]LogAssetRegistry: FAssetRegistry took 0.0404 seconds to start up
+[2019.11.13-16.21.39:462][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-16.21.40:039][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.13-16.21.40:039][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.13-16.21.40:039][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.13-16.21.40:039][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.13-16.21.40:040][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.13-16.21.40:123][  0]LogNetVersion: RTS_Game_2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1507260188)
+[2019.11.13-16.21.42:490][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.063019 seconds
+[2019.11.13-16.21.42:498][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.13-16.21.42:498][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.13-16.21.42:498][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.13-16.21.46:498][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.13-16.21.46:516][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.13-16.21.46:737][  0]SourceControl: Source control is disabled
+[2019.11.13-16.21.46:737][  0]SourceControl: Source control is disabled
+[2019.11.13-16.21.46:755][  0]SourceControl: Source control is disabled
+[2019.11.13-16.21.46:762][  0]SourceControl: Source control is disabled
+[2019.11.13-16.21.47:058][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.13-16.21.47:290][  0]LogOcInput: OculusInput pre-init called
+[2019.11.13-16.21.48:619][  0]LogEngine: Initializing Engine...
+[2019.11.13-16.21.48:620][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-16.21.48:622][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.13-16.21.49:283][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.13-16.21.49:329][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.13-16.21.49:364][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-16.21.49:382][  0]LogInit: FAudioDevice initialized.
+[2019.11.13-16.21.49:383][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.13-16.21.49:999][  0]LogDerivedDataCache: Saved boot cache 0.62s 73MB C:/Users/1740037/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.13-16.21.50:016][  0]LogInit: Texture streaming: Enabled
+[2019.11.13-16.21.50:055][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.13-16.21.50:106][  0]LogInit: Transaction tracking system initialized
+[2019.11.13-16.21.50:199][  0]BlueprintLog: New page: Editor Load
+[2019.11.13-16.21.50:701][  0]LocalizationService: Localization service is disabled
+[2019.11.13-16.21.51:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/' took 0.03s
+[2019.11.13-16.21.51:160][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.13-16.21.51:161][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.13-16.21.51:645][  0]SourceControl: Source control is disabled
+[2019.11.13-16.21.51:645][  0]Cmd: MAP LOAD FILE="../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-16.21.51:654][  0]LightingResults: New page: Lighting Build
+[2019.11.13-16.21.51:666][  0]MapCheck: New page: Map Check
+[2019.11.13-16.21.51:666][  0]LightingResults: New page: Lighting Build
+[2019.11.13-16.21.51:968][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2019.11.13-16.21.52:934][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.13-16.21.52:934][  0]LogMaterial: Display: Missing cached shader map for material Good_Selection_Decal, compiling. 
+[2019.11.13-16.21.53:033][  0]LogMaterial: Display: Missing cached shader map for material Bad_Selection_Decal, compiling. 
+[2019.11.13-16.21.53:464][  0]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.11.13-16.21.53:549][  0]LogMaterial: Display: Missing cached shader map for material Movement_Selection_Decal, compiling. 
+[2019.11.13-16.21.53:607][  0]LogAIModule: Creating AISystem for world Map
+[2019.11.13-16.21.53:718][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.13-16.21.53:833][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.11.13-16.21.53:833][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-16.21.53:833][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.182ms to complete.
+[2019.11.13-16.21.53:833][  0]LogFileHelpers: Loading map 'Map' took 2.188
+[2019.11.13-16.21.54:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-16.21.54:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-16.21.54:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-16.21.54:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-16.21.54:170][  0]LogCollectionManager: Loaded 0 collections in 0.006410 seconds
+[2019.11.13-16.21.54:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Collections/' took 0.01s
+[2019.11.13-16.21.54:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/Developers/1740037/Collections/' took 0.00s
+[2019.11.13-16.21.54:197][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/Collections/' took 0.00s
+[2019.11.13-16.21.54:197][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.13-16.21.54:219][  0]LogContentBrowser: Native class hierarchy populated in 0.0218 seconds. Added 2732 classes and 659 folders.
+[2019.11.13-16.21.54:238][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.13-16.21.54:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:260][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.54:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-16.21.55:023][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.13-16.21.55:038][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.13-16.21.55:088][  0]LogSlate: Took 0.012883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.13-16.21.55:101][  0]LogSlate: Took 0.008761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.13-16.21.55:120][  0]LogSlate: Took 0.011975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.13-16.21.55:357][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.13-16.21.57:732][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-16.21.57:763][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.11.13-16.21.57:813][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.11.13-16.21.57:813][  0]LogLoad: (Engine Initialization) Total time: 39.35 seconds
+[2019.11.13-16.21.57:813][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.13-16.21.57:925][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.13-16.21.58:048][  0]LogSlate: Took 0.010098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-16.21.58:181][  3]LogAssetRegistry: Asset discovery search completed in 19.4399 seconds
+[2019.11.13-16.21.58:187][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.13-16.21.58:187][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001158 seconds (updated 0 objects)
+[2019.11.13-16.22.43:072][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.22.45:453][394]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-16.22.47:895][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.24.16:920][  3]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.11.13-16.24.16:989][  4]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.11.13-16.24.17:053][  5]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.11.13-16.24.17:101][  6]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.11.13-16.28.08:067][ 24]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-17.03.50:091][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.03.57:684][  6]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2019.11.13-17.07.33:318][801]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-17.07.33:336][801]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/1740037/Downloads/BuildingMeshes/Barracks.fbx)
+[2019.11.13-17.07.33:404][801]LogFbx: Loading FBX Scene from ../../../../../../Users/1740037/Downloads/BuildingMeshes/Barracks.fbx
+[2019.11.13-17.07.33:418][801]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.13-17.07.41:798][801]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.13-17.07.41:910][801]LogFbx: Display: Triangulating static mesh Cube
+[2019.11.13-17.07.41:932][801]LogStaticMesh: Building static mesh Barracks...
+[2019.11.13-17.07.41:943][801]LogStaticMesh: Built static mesh [0.01s] /Game/MY_Scripts/Meshes/Buildings/Barracks.Barracks
+[2019.11.13-17.07.41:945][801]LogStaticMesh: Warning: Barracks has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.13-17.07.41:945][801]LogStaticMesh: Warning: Barracks has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.13-17.07.41:960][801]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.13-17.07.41:961][801]FBXImport: Warning: Barracks has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.13-17.07.41:961][801]FBXImport: Warning: Barracks has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.13-17.07.41:976][801]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/1740037/Downloads/BuildingMeshes/Factory.fbx)
+[2019.11.13-17.07.41:994][801]LogFbx: Loading FBX Scene from ../../../../../../Users/1740037/Downloads/BuildingMeshes/Factory.fbx
+[2019.11.13-17.07.42:000][801]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.13-17.07.42:002][801]LogFbx: Display: Triangulating static mesh Plant
+[2019.11.13-17.07.42:017][801]LogStaticMesh: Building static mesh Factory...
+[2019.11.13-17.07.42:018][801]LogStaticMesh: Built static mesh [0.00s] /Game/MY_Scripts/Meshes/Buildings/Factory.Factory
+[2019.11.13-17.07.42:019][801]LogStaticMesh: Warning: Factory has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.13-17.07.42:019][801]LogStaticMesh: Warning: Factory has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.13-17.07.42:027][801]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.13-17.07.42:027][801]FBXImport: Warning: Factory has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.13-17.07.42:027][801]FBXImport: Warning: Factory has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.13-17.07.42:031][801]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/1740037/Downloads/BuildingMeshes/Silo.fbx)
+[2019.11.13-17.07.42:044][801]LogFbx: Loading FBX Scene from ../../../../../../Users/1740037/Downloads/BuildingMeshes/Silo.fbx
+[2019.11.13-17.07.42:050][801]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.13-17.07.42:053][801]LogFbx: Display: Triangulating static mesh Silo body
+[2019.11.13-17.07.42:145][801]LogStaticMesh: Building static mesh Silo...
+[2019.11.13-17.07.42:165][801]LogStaticMesh: Built static mesh [0.02s] /Game/MY_Scripts/Meshes/Buildings/Silo.Silo
+[2019.11.13-17.07.42:178][801]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.13-17.07.42:190][801]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/1740037/Downloads/BuildingMeshes/TrainingPost.fbx)
+[2019.11.13-17.07.42:204][801]LogFbx: Loading FBX Scene from ../../../../../../Users/1740037/Downloads/BuildingMeshes/TrainingPost.fbx
+[2019.11.13-17.07.42:210][801]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.13-17.07.42:212][801]LogFbx: Display: Triangulating static mesh Cube.005
+[2019.11.13-17.07.42:230][801]LogStaticMesh: Building static mesh TrainingPost...
+[2019.11.13-17.07.42:231][801]LogStaticMesh: Built static mesh [0.00s] /Game/MY_Scripts/Meshes/Buildings/TrainingPost.TrainingPost
+[2019.11.13-17.07.42:231][801]LogStaticMesh: Warning: TrainingPost has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.13-17.07.42:231][801]LogStaticMesh: Warning: TrainingPost has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.13-17.07.42:241][801]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.13-17.07.42:241][801]FBXImport: Warning: TrainingPost has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.13-17.07.42:241][801]FBXImport: Warning: TrainingPost has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.13-17.07.44:006][981]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-17.07.44:009][981]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-17.07.45:357][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.13-17.07.45:357][133]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY_Scripts/Maps/Map' took 0.029
+[2019.11.13-17.07.45:359][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MY_Scripts/Meshes/Buildings/Barracks] ([1] browsable assets)...
+[2019.11.13-17.07.45:373][133]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MY_Scripts/Meshes/Buildings/Barracks.Barracks]
+[2019.11.13-17.07.45:373][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY_Scripts/Meshes/Buildings/Barracks]
+[2019.11.13-17.07.45:409][133]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Barracks_Auto1290B276D45A336D7238328A2C110DED4.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Autosaves/Game/MY_Scripts/Meshes/Buildings/Barracks_Auto1.uasset'
+[2019.11.13-17.07.45:412][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MY_Scripts/Meshes/Buildings/Factory] ([1] browsable assets)...
+[2019.11.13-17.07.45:423][133]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MY_Scripts/Meshes/Buildings/Factory.Factory]
+[2019.11.13-17.07.45:423][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY_Scripts/Meshes/Buildings/Factory]
+[2019.11.13-17.07.45:440][133]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Factory_Auto196E90B1F4C8A69779A99CA877C08FA11.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Autosaves/Game/MY_Scripts/Meshes/Buildings/Factory_Auto1.uasset'
+[2019.11.13-17.07.45:441][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MY_Scripts/Meshes/Buildings/Silo] ([1] browsable assets)...
+[2019.11.13-17.07.45:452][133]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MY_Scripts/Meshes/Buildings/Silo.Silo]
+[2019.11.13-17.07.45:452][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY_Scripts/Meshes/Buildings/Silo]
+[2019.11.13-17.07.45:477][133]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Silo_Auto1E2E27FA34268093D572BA48728876B04.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Autosaves/Game/MY_Scripts/Meshes/Buildings/Silo_Auto1.uasset'
+[2019.11.13-17.07.45:478][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MY_Scripts/Meshes/Buildings/TrainingPost] ([1] browsable assets)...
+[2019.11.13-17.07.45:490][133]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MY_Scripts/Meshes/Buildings/TrainingPost.TrainingPost]
+[2019.11.13-17.07.45:490][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY_Scripts/Meshes/Buildings/TrainingPost]
+[2019.11.13-17.07.45:524][133]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/TrainingPost_Auto1A3326F544648C56A712A37B43C7EB816.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Autosaves/Game/MY_Scripts/Meshes/Buildings/TrainingPost_Auto1.uasset'
+[2019.11.13-17.07.45:525][133]LogFileHelpers: Auto-saving content packages took 0.167
+[2019.11.13-17.07.47:520][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.07.47:634][371]LogActorFactory: Actor Factory created Barracks
+[2019.11.13-17.07.48:155][432]LogActorFactory: Actor Factory created Barracks
+[2019.11.13-17.07.49:307][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barracks)
+[2019.11.13-17.07.49:590][585]Cmd: DELETE
+[2019.11.13-17.07.49:590][585]Cmd: ACTOR DELETE
+[2019.11.13-17.07.49:608][585]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-17.07.49:634][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.13-17.07.49:635][585]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.11.13-17.07.50:345][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.07.50:467][682]LogActorFactory: Actor Factory created Factory
+[2019.11.13-17.07.50:696][709]LogActorFactory: Actor Factory created Factory
+[2019.11.13-17.07.51:209][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Factory)
+[2019.11.13-17.07.51:641][813]Cmd: DELETE
+[2019.11.13-17.07.51:641][813]Cmd: ACTOR DELETE
+[2019.11.13-17.07.51:644][813]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-17.07.51:671][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.13-17.07.51:672][813]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.11.13-17.07.52:356][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.07.52:509][911]LogActorFactory: Actor Factory created Silo
+[2019.11.13-17.07.52:699][933]LogActorFactory: Actor Factory created Silo
+[2019.11.13-17.07.53:040][969]Cmd: DELETE
+[2019.11.13-17.07.53:041][969]Cmd: ACTOR DELETE
+[2019.11.13-17.07.53:044][969]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-17.07.53:069][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.13-17.07.53:070][969]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.11.13-17.07.53:941][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.07.54:088][ 88]LogActorFactory: Actor Factory created TrainingPost
+[2019.11.13-17.07.54:293][112]LogActorFactory: Actor Factory created TrainingPost
+[2019.11.13-17.07.54:722][158]Cmd: DELETE
+[2019.11.13-17.07.54:722][158]Cmd: ACTOR DELETE
+[2019.11.13-17.07.54:726][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-17.07.54:751][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.13-17.07.54:752][158]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.11.13-17.07.55:701][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.08.05:220][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.11.13-17.08.05:674][423]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/MapE4C0534347EBAD64DBCA2BBF0AEE9251.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Maps/Map.umap'
+[2019.11.13-17.08.05:715][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Scripts/Maps/Map_BuiltData" FILE="../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Maps/Map_BuiltData.uasset" SILENT=true
+[2019.11.13-17.08.05:758][423]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Map_BuiltDataC61A39E3492CE8DC44C5448CB64F7BF5.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Maps/Map_BuiltData.uasset'
+[2019.11.13-17.08.06:955][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.13-17.08.08:119][558]LogSlate: Window 'Save Content' being destroyed
+[2019.11.13-17.08.08:148][558]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Barracks790E188D4AE2626D4C28D0B77209F3D1.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Meshes/Buildings/Barracks.uasset'
+[2019.11.13-17.08.08:170][558]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Factory9424F8EC4330A627D4BD4393A9C3DA73.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Meshes/Buildings/Factory.uasset'
+[2019.11.13-17.08.08:179][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Scripts/Meshes/Buildings/Silo" FILE="../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Meshes/Buildings/Silo.uasset" SILENT=true
+[2019.11.13-17.08.08:196][558]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Silo88E3555D452928259EE887A11E971CAF.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Meshes/Buildings/Silo.uasset'
+[2019.11.13-17.08.08:216][558]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/TrainingPostB924477D4B41C2349E936880F0441B33.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Meshes/Buildings/TrainingPost.uasset'
+[2019.11.13-17.09.07:331][988]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.13-17.10.23:211][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.13-17.10.23:212][524]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialMaster.PackageMetaData'
+[2019.11.13-17.10.23:212][524]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.SKEL_BP_RTS_IndustrialBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialMaster.PackageMetaData'
+[2019.11.13-17.10.23:212][524]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialMaster.PackageMetaData'
+[2019.11.13-17.10.23:212][524]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialMaster.PackageMetaData'
+[2019.11.13-17.10.23:212][524]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialMaster.PackageMetaData'
+[2019.11.13-17.10.23:212][524]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialMaster.PackageMetaData'
+[2019.11.13-17.10.23:239][524]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_IndustrialBuildingMaster54D18DDC484E4C50E4241DA91F2857FD.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.uasset'
+[2019.11.13-17.10.23:340][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.13-17.10.23:367][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.13-17.10.23:390][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.SKEL_BP_RTS_IndustrialBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.BP_RTS_IndustrialBuildingMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.SKEL_BP_RTS_IndustrialBuildingMaster_C:ReceiveBeginPlay' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.SKEL_BP_RTS_IndustrialBuildingMaster_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.SKEL_BP_RTS_IndustrialBuildingMaster_C:ReceiveTick' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:127][ 88]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.SKEL_BP_RTS_IndustrialBuildingMaster_C:UserConstructionScript' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_IndustrialBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.30:156][ 88]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_IndustrialBuildingMasterC0090B8543EDD5F68348EC8A3088F623.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_IndustrialBuildingMaster.uasset'
+[2019.11.13-17.10.30:249][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.13-17.10.30:281][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.11.13-17.10.30:305][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.13-17.10.46:705][ 40]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.BP_RTS_MilitaryBuildingMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_MilitaryBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.46:705][ 40]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.SKEL_BP_RTS_MilitaryBuildingMaster_C:UserConstructionScript' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_MilitaryBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.46:705][ 40]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.SKEL_BP_RTS_MilitaryBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_MilitaryBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.46:705][ 40]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.BP_RTS_MilitaryBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_MilitaryBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.46:705][ 40]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.BP_RTS_MilitaryBuildingMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_MilitaryBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.46:705][ 40]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.BP_RTS_MilitaryBuildingMaster:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_MilitaryBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.46:705][ 40]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.BP_RTS_MilitaryBuildingMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_MilitaryBuildingMaster.PackageMetaData'
+[2019.11.13-17.10.46:732][ 40]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_MilitaryBuildingMaster1F0E524B452A06B5126E34A787994677.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_MilitaryBuildingMaster.uasset'
+[2019.11.13-17.10.46:828][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.11.13-17.10.46:857][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.13-17.10.46:882][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.13-17.11.08:021][562]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.BP_RTS_ResidentialBuildingMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResidentialBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.08:021][562]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.SKEL_BP_RTS_ResidentialBuildingMaster_C:UserConstructionScript' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResidentialBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.08:021][562]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.SKEL_BP_RTS_ResidentialBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResidentialBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.08:021][562]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.BP_RTS_ResidentialBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResidentialBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.08:021][562]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.BP_RTS_ResidentialBuildingMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResidentialBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.08:021][562]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.BP_RTS_ResidentialBuildingMaster:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResidentialBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.08:021][562]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.BP_RTS_ResidentialBuildingMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResidentialBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.08:045][562]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_ResidentialBuildingMaster62F357C14A1EE748D40DA195C124172D.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_ResidentialBuildingMaster.uasset'
+[2019.11.13-17.11.08:143][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.11.13-17.11.08:167][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.13-17.11.08:192][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.13-17.11.34:267][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.11.13-17.11.34:267][862]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceMaster.PackageMetaData'
+[2019.11.13-17.11.34:267][862]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.SKEL_BP_RTS_ResourceBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceMaster.PackageMetaData'
+[2019.11.13-17.11.34:267][862]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceMaster.PackageMetaData'
+[2019.11.13-17.11.34:268][862]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceMaster.PackageMetaData'
+[2019.11.13-17.11.34:268][862]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceMaster.PackageMetaData'
+[2019.11.13-17.11.34:268][862]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceMaster.PackageMetaData'
+[2019.11.13-17.11.34:293][862]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_ResourceBuildingMasterA938ADEA45456C207CE37787E5FCACB8.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.uasset'
+[2019.11.13-17.11.34:395][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.13-17.11.34:423][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.11.13-17.11.34:447][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.SKEL_BP_RTS_ResourceBuildingMaster_C' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.BP_RTS_ResourceBuildingMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.SKEL_BP_RTS_ResourceBuildingMaster_C:ReceiveBeginPlay' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.SKEL_BP_RTS_ResourceBuildingMaster_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.SKEL_BP_RTS_ResourceBuildingMaster_C:ReceiveTick' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.36:976][158]LogMetaData: Removing '/Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.SKEL_BP_RTS_ResourceBuildingMaster_C:UserConstructionScript' ref from Metadata '/Game/MY_Scripts/Blueprints/Buildings/BP_RTS_ResourceBuildingMaster.PackageMetaData'
+[2019.11.13-17.11.37:001][158]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_ResourceBuildingMaster44611160401356E2070C779908C8A6B8.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_ResourceBuildingMaster.uasset'
+[2019.11.13-17.11.37:093][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.13-17.11.37:120][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.13-17.11.37:143][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.11.13-17.11.41:015][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.13-17.11.41:392][339]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Map0D44BBA7420CA62AB8DA40BBEE46A32C.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Maps/Map.umap'
+[2019.11.13-17.11.41:447][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Scripts/Maps/Map_BuiltData" FILE="../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Maps/Map_BuiltData.uasset" SILENT=true
+[2019.11.13-17.11.41:506][339]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/Map_BuiltData73B160EA4088F261C372C5A9CBE433DF.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Maps/Map_BuiltData.uasset'
+[2019.11.13-17.11.45:909][509]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.BP_RTS_BuildingMaster
+[2019.11.13-17.11.46:212][509]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.13-17.11.49:262][697]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:166).
+[2019.11.13-17.11.49:359][706]LogSlate: Window 'BP_RTS_BuildingMaster' being destroyed
+[2019.11.13-17.11.52:823][112]LogSlate: Took 0.005736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.13-17.12.12:366][  2]BlueprintLog: New page: Compile BP_RTS_BuildingMaster
+[2019.11.13-17.12.12:550][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.13-17.12.12:951][ 45]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_BuildingMaster18B6921A49218884FA458BBB42C0688D.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.uasset'
+[2019.11.13-17.12.32:098][983]LogSlate: Took 0.005854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.13-17.13.11:226][ 45]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY_Scripts/Blueprints/Player/BP_RTS_PlayerController.BP_RTS_PlayerController
+[2019.11.13-17.13.11:581][ 45]LogSlate: Took 0.008046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.13-17.13.26:323][664]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_BuildingMaster813E46044C7CCE3DCA1B588067FF75FC.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.uasset'
+[2019.11.13-17.13.27:133][759]BlueprintLog: New page: Compile BP_RTS_BuildingMaster
+[2019.11.13-17.13.27:324][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.11.13-17.13.27:704][796]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_BuildingMasterB43E433344E8F3C1F6F3ADAF00F88587.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.uasset'
+[2019.11.13-17.14.03:704][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.14.03:787][350]BlueprintLog: New page: Compile BP_RTS_BuildingMaster
+[2019.11.13-17.14.03:959][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.11.13-17.14.04:244][376]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_BuildingMaster1CFC8F2E4E9328E4DB4BABA630D905DE.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.uasset'
+[2019.11.13-17.14.18:052][ 78]BlueprintLog: New page: Compile BP_RTS_BuildingMaster
+[2019.11.13-17.14.18:237][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.13-17.14.18:568][110]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_BuildingMasterD751A5B643D3A06E6C8854B3189EECDA.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.uasset'
+[2019.11.13-17.14.37:757][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.14.55:491][480]BlueprintLog: New page: Compile BP_RTS_BuildingMaster
+[2019.11.13-17.14.55:679][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.13-17.14.55:996][510]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_BuildingMasterEDB967DE4D4A3036CCFB09B8968A5664.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.uasset'
+[2019.11.13-17.15.11:809][790]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_BuildingMasterDF330C0B4014BE487C363A88312C3944.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_BuildingMaster.uasset'
+[2019.11.13-17.15.22:613][953]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.13-17.15.33:375][238]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.BP_RTS_PreviewBuilding
+[2019.11.13-17.15.33:743][239]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.11.13-17.15.35:358][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.15.59:060][254]BlueprintLog: New page: Compile BP_RTS_PreviewBuilding
+[2019.11.13-17.15.59:238][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.11.13-17.15.59:408][266]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_PreviewBuilding1719A4E94FEF1A694FE7EFB578D132BC.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.uasset'
+[2019.11.13-17.16.27:348][126]BlueprintLog: New page: Compile BP_RTS_PreviewBuilding
+[2019.11.13-17.16.27:523][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.11.13-17.16.27:870][159]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_PreviewBuildingF407058F463BB729E96FE4BB6AC8D4EA.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.uasset'
+[2019.11.13-17.16.36:550][290]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_PreviewBuildingE21E81194F94EB0D6F4794AD84D94694.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.uasset'
+[2019.11.13-17.16.36:930][334]BlueprintLog: New page: Compile BP_RTS_PreviewBuilding
+[2019.11.13-17.16.37:104][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.11.13-17.16.37:481][372]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_PreviewBuilding1213ABAD4577B06AF5802CB5FFC04B37.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.uasset'
+[2019.11.13-17.16.47:491][205]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_PreviewBuilding65B8E0B64ABCB62B6A8419AC7B6522D7.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.uasset'
+[2019.11.13-17.16.53:591][935]BlueprintLog: New page: Compile BP_RTS_PreviewBuilding
+[2019.11.13-17.16.53:789][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.11.13-17.16.54:334][994]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_PreviewBuilding4F447E9749DA3BCE0588138C3578B93C.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.uasset'
+[2019.11.13-17.17.33:780][155]BlueprintLog: New page: Compile BP_RTS_PreviewBuilding
+[2019.11.13-17.17.33:952][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.11.13-17.17.34:492][213]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_PreviewBuilding07863F3A41EEFED8C134408D23A701C5.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/BP_RTS_PreviewBuilding.uasset'
+[2019.11.13-17.17.50:555][894]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_Factory.BP_RTS_Factory
+[2019.11.13-17.18.15:100][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-17.18.26:654][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.18.26:729][474]BlueprintLog: New page: Compile BP_RTS_Factory
+[2019.11.13-17.18.26:900][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.13-17.18.27:271][512]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_Factory41E81B77424E862E602641B6358CB3E8.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/Industrial/BP_RTS_Factory.uasset'
+[2019.11.13-17.18.30:929][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.18.44:035][306]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_TrainingPost.BP_RTS_TrainingPost
+[2019.11.13-17.18.52:780][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.18.52:855][291]BlueprintLog: New page: Compile BP_RTS_TrainingPost
+[2019.11.13-17.18.53:036][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.11.13-17.18.53:380][326]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_TrainingPost996E68B844FF048C377F74891E75E452.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/Military/BP_RTS_TrainingPost.uasset'
+[2019.11.13-17.19.10:654][379]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_Barracks.BP_RTS_Barracks
+[2019.11.13-17.19.17:939][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.19.18:022][189]BlueprintLog: New page: Compile BP_RTS_Barracks
+[2019.11.13-17.19.18:209][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.11.13-17.19.18:571][226]LogSavePackage: Moving '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Saved/BP_RTS_Barracks39AC381C44587BA279545DADD6C6873D.tmp' to '../../../../../../Users/1740037/Downloads/RTS_Game_2/RTS_Game_2/Content/MY_Scripts/Blueprints/Buildings/Residential/BP_RTS_Barracks.uasset'
+[2019.11.13-17.19.31:888][801]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.13-17.20.03:275][801]LogStats: FPlatformStackWalk::StackWalkAndDump - 31.387 s
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: 
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: Found circular redirect from /Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_Silo.BP_RTS_Silo_C to /Game/MY_Scripts/Blueprints/Buildings/ResourceManagement/BP_RTS_Silo.BP_RTS_Silo_C! Returning None instead
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: Stack: 
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f8c2690 UE4Editor-CoreUObject.dll!DispatchCheckVerify<bool,<lambda_ce02c1e9c6db6e6bc7b63437a753ede0> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:161]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f594d22 UE4Editor-CoreUObject.dll!FRedirectCollector::GetAssetPathRedirection() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\misc\redirectcollector.cpp:219]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f81c2ca UE4Editor-CoreUObject.dll!FSoftObjectPath::PreSavePath() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\softobjectpath.cpp:86]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f8274c9 UE4Editor-CoreUObject.dll!FSoftObjectPath::SerializePath() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\softobjectpath.cpp:139]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f5c9017 UE4Editor-CoreUObject.dll!FArchiveUObject::SerializeSoftObjectPath() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\serialization\archiveuobject.cpp:91]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f5606c3 UE4Editor-CoreUObject.dll!FArchiveUObjectFromStructuredArchive::operator<<() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\serialization\archiveuobjectfromstructuredarchive.cpp:121]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f827113 UE4Editor-CoreUObject.dll!FSoftObjectPath::Serialize() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\softobjectpath.cpp:116]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f6d533c UE4Editor-CoreUObject.dll!UScriptStruct::SerializeItem() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:2172]
+[2019.11.13-17.20.03:275][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f7e7d99 UE4Editor-CoreUObject.dll!UStructProperty::SerializeItem() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\propertystruct.cpp:130]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f7e80a1 UE4Editor-CoreUObject.dll!FPropertyTag::SerializeTaggedProperty() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\propertytag.cpp:224]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f6d736c UE4Editor-CoreUObject.dll!UStruct::SerializeTaggedProperties() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:1216]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f6d5412 UE4Editor-CoreUObject.dll!UScriptStruct::SerializeItem() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:2201]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f7e7d99 UE4Editor-CoreUObject.dll!UStructProperty::SerializeItem() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\propertystruct.cpp:130]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f78dced UE4Editor-CoreUObject.dll!UArrayProperty::SerializeItem() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\propertyarray.cpp:218]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f7e80a1 UE4Editor-CoreUObject.dll!FPropertyTag::SerializeTaggedProperty() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\propertytag.cpp:224]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f6d736c UE4Editor-CoreUObject.dll!UStruct::SerializeTaggedProperties() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\class.cpp:1216]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f78e3f3 UE4Editor-CoreUObject.dll!UObject::SerializeScriptProperties() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:1389]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f78c9f7 UE4Editor-CoreUObject.dll!UObject::Serialize() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:1309]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f78c6f4 UE4Editor-CoreUObject.dll!UObject::Serialize() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:1222]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4c660125 UE4Editor-Engine.dll!UBlueprintCore::Serialize() [d:\build\++ue4\sync\engine\source\runtime\engine\private\blueprint.cpp:297]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4c65fc5c UE4Editor-Engine.dll!UBlueprint::Serialize() [d:\build\++ue4\sync\engine\source\runtime\engine\private\blueprint.cpp:411]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f7cc315 UE4Editor-CoreUObject.dll!FArchiveSaveTagExports::ProcessTaggedObjects() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\savepackage.cpp:1166]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f7eb619 UE4Editor-CoreUObject.dll!FPackageExportTagger::TagPackageExports() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\savepackage.cpp:2918]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4f7d3f55 UE4Editor-CoreUObject.dll!UPackage::Save() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\savepackage.cpp:3813]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc49d49ddb UE4Editor-UnrealEd.dll!UEditorEngine::Save() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:4344]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc49d4a757 UE4Editor-UnrealEd.dll!UEditorEngine::SavePackage() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:4399]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc49d7fce4 UE4Editor-UnrealEd.dll!UEditorEngine::Exec_Obj() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:4487]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc49d7c5b5 UE4Editor-UnrealEd.dll!UEditorEngine::Exec() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorserver.cpp:5564]
+[2019.11.13-17.20.03:276][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4a50f0aa UE4Editor-UnrealEd.dll!UUnrealEdEngine::Exec() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedsrv.cpp:691]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4a0bda24 UE4Editor-UnrealEd.dll!InternalSavePackage() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\filehelpers.cpp:2914]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4a0bc599 UE4Editor-UnrealEd.dll!InternalPromptForCheckoutAndSave() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\filehelpers.cpp:3420]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4a0d00b2 UE4Editor-UnrealEd.dll!FEditorFileUtils::PromptForCheckoutAndSave() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\filehelpers.cpp:3685]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc3954b1b3 UE4Editor-AssetTools.dll!FAssetRenameManager::PerformAssetRename() [d:\build\++ue4\sync\engine\source\developer\assettools\private\assetrenamemanager.cpp:1198]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc3950ab33 UE4Editor-AssetTools.dll!FAssetRenameManager::FixReferencesAndRename() [d:\build\++ue4\sync\engine\source\developer\assettools\private\assetrenamemanager.cpp:392]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc3955a9d7 UE4Editor-AssetTools.dll!UAssetToolsImpl::RenameAssetsWithDialog() [d:\build\++ue4\sync\engine\source\developer\assettools\private\assettools.cpp:1006]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc38332fde UE4Editor-ContentBrowser.dll!ContentBrowserUtils::RenameAsset() [d:\build\++ue4\sync\engine\source\editor\contentbrowser\private\contentbrowserutils.cpp:468]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc38396f11 UE4Editor-ContentBrowser.dll!SAssetView::AssetRenameCommit() [d:\build\++ue4\sync\engine\source\editor\contentbrowser\private\sassetview.cpp:4427]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc383ddda4 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,0,void __cdecl(TSharedPtr<FAssetViewItem,0> const &,FString const &,FSlateRect const &,enum ETextCommit::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc38310e4d UE4Editor-ContentBrowser.dll!SAssetViewItem::HandleNameCommitted() [d:\build\++ue4\sync\engine\source\editor\contentbrowser\private\assetviewwidgets.cpp:611]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc382f3d59 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetTileItem,0,void __cdecl(FText const &,enum ETextCommit::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf0b61a UE4Editor-Slate.dll!SInlineEditableTextBlock::OnTextBoxCommitted() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\text\sinlineeditabletextblock.cpp:313]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4bedee59 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SInlineEditableTextBlock,0,void __cdecl(FText const &,enum ETextCommit::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf3c69d UE4Editor-Slate.dll!FSlateEditableTextLayout::HandleCarriageReturn() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\text\slateeditabletextlayout.cpp:1455]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf3d93d UE4Editor-Slate.dll!FSlateEditableTextLayout::HandleKeyDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\text\slateeditabletextlayout.cpp:928]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4be700bd UE4Editor-Slate.dll!SEditableText::OnKeyDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\seditabletext.cpp:204]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4bcc1e66 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_21fddcfe5d8b6e57b707a8971995adc5> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:271]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4bd28dcd UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5138]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc4bd1f1ce UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5046]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc72c5b55a UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1677]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc72c4ef9f UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2292]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc72c5d77f UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1522]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc72c4c090 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:772]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc7aff1c84 USER32.dll!UnknownFunction []
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc7aff15cc USER32.dll!UnknownFunction []
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc72c5e946 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ff6d4125d3e UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3882]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ff6d413554c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:168]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ff6d41355ca UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ff6d414316c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ff6d4145b8e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc7bd384d4 KERNEL32.DLL!UnknownFunction []
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: [Callstack] 0x00007ffc7dabe8b1 ntdll.dll!UnknownFunction []
+[2019.11.13-17.20.03:277][801]LogOutputDevice: Error: 
+[2019.11.13-17.20.03:280][801]LogStats:                SubmitErrorReport -  0.000 s
